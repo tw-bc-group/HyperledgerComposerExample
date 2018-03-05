@@ -45,7 +45,7 @@ cd ~/fabric-tools
 ### 打开 Playground
 `composer-playground`
 一般的，上面的命令会自动打开浏览器来到地址为：http://localhost:8080/login 的界面
-[image:09FBBFA7-607D-48E6-B5FC-514CA9E20CD3-3390-0000097CA3E787D2/image.png]
+![playground](https://github.com/tw-bc-group/HyperledgerComposerExample/blob/master/hyperledger-composer-example-code/Image/image1.png?raw=true)
 
 ---
 
@@ -60,7 +60,7 @@ Playground 使用方法较为简单，直接查看文档即可
 ### 对比 Playground
 从对比的角度来看，两者所做的事情是一样的，只不过一个在 web 直接编写，一个是在 VS Code / Atom 编写。
 以下是两者对比：
-[image:D4B9CE2F-093E-41B9-9169-3AB42E737F4B-3390-00000982AF8DEA77/image.png]
+![compare](https://github.com/tw-bc-group/HyperledgerComposerExample/blob/master/hyperledger-composer-example-code/Image/image2.png?raw=true)
 注：
 * .bna 文件是用来导入 Playground 的文件，或可理解为编译生成的文件，类似 Solidity 的 abi，但不等于。
 
